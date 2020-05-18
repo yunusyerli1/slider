@@ -84,8 +84,8 @@ handleCopyToClipboard = () => {
           <input type="text" value={this.state.showCopyText? 'Kopyalandı!' : `#${this.state.color}`}  disabled="disabled"/>
           </button>
           <Slider color="#FF4136" hexColor="red" handleUpdateColor={this.handleUpdateColor}/>    
-          <Slider color="#0074D9" hexColor="green" handleUpdateColor={this.handleUpdateColor}/> 
-          <Slider color="#3D9970" hexColor="blue" handleUpdateColor={this.handleUpdateColor}/> 
+          <Slider color="#0074D9" hexColor="blue" handleUpdateColor={this.handleUpdateColor}/> 
+          <Slider color="#3D9970" hexColor="green" handleUpdateColor={this.handleUpdateColor}/> 
         </div>
       </div>
       </Styles>
