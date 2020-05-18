@@ -31,20 +31,19 @@ In this project, I made a simple color picker by using three slider and a button
 - Styled-Components
 - Copy-To-Clipboard Library
 
-### ✨ [Live Demo](https://havanibul.herokuapp.com/)
 
 ## Usage
 
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/Yunusyerli1/weatherApp.git
+$ git clone https://github.com/Yunusyerli1/slider.git
 ```
 
 > cd into the directory, install dependencies, build and start 
 
 ```sh
-$ cd weather-app
+$ cd slider
 $ npm run start
 ```
 
@@ -60,7 +59,7 @@ $ npm run start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Yunusyerli1/weatherApp/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Yunusyerli1/slider/issues).
 
 1. Fork it (https://github.com/Yunusyerli1/weatherApp.git/fork)
 2. Create your working branch (git checkout -b [choose-a-name])
